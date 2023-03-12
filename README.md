@@ -11,6 +11,8 @@
 - I have a huge interest in games, I have even won a major CCG european tournament;
 - Fluent in Portuguese and English yet I also have intermediate level of Spanish;
 
+--------------------------------
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/filipe-neves-4bb934216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
