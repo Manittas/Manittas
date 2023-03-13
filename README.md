@@ -10,6 +10,7 @@
 - My main interest is Software Engineering;
 - I have a huge interest in games, I have even won a major CCG european tournament;
 - Fluent in Portuguese and English yet I also have intermediate level of Spanish;
+- Contact: manittashs@gmail.com;
 
 --------------------------------
 
