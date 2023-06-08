@@ -5,9 +5,8 @@
 ### About Me:
 
 - My name is Filipe Neves, I was born in Portugal and study in Instituto Superior Técnico;
-- I am a Junior Software Developer @ EVNT Games;
-- I expect to finish my Bachelor's degree in Computer Science and Engineering this summer of 2023 (2 lectures missing);
-- My main interest is Software Engineering;
+- I am a Software Engineer, I expect to finish my Bachelor's degree in Computer Science and Engineering this summer of 2023 (2 lectures missing);
+- My main interests are Artificial Intelligence, Cybersecurity and Software Engineering;
 - I have a huge interest in games, I have even won a major CCG european tournament;
 - Fluent in Portuguese and English yet I also have intermediate level of Spanish;
 - Contact: manittashs@gmail.com;
