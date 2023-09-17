@@ -5,7 +5,7 @@
 ### About Me:
 
 - My name is Filipe Neves, I was born in Portugal and studied in Instituto Superior Técnico;
-- I am a Software Engineer with a Bachelor's degree in Computer Science and Engineering;
+- I am a Software Engineer with a Bachelor's degree in Computer Science and Engineering. Currently started a Master's degree in the same field and started working full time as an IT Junior Analyst;
 - My main interests are Artificial Intelligence, Cybersecurity and Software Engineering;
 - I have a huge interest in games, I have even won a major card game european tournament;
 - Fluent in Portuguese and English yet I also have intermediate level of Spanish;
