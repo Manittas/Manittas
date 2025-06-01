@@ -5,10 +5,10 @@
 ### About Me:
 
 - My name is Filipe Neves, I was born in Portugal and studied in Instituto Superior Técnico;
-- I have a Bachelor's degree in Computer Science and Engineering. Currently am working as an IT Analyst;
-- My main interests are Artificial Intelligence, Cybersecurity and Software Engineering;
-- I have a huge interest in games, I won a major card game european tournament;
-- Fluent in Portuguese and English yet I also have intermediate level of Spanish;
+- I have a Bachelor's degree in Computer Science and Engineering. Currently am working as a Developer Engineer for SAP;
+- My main interests are Cybersecurity, Software Engineering and Artificial Intelligence;
+- My interests revolve around cars, sports, politics, gardening and games (which I won a major card game european tournament);
+- Fluent in Portuguese and English yet I also have intermediate level of Spanish and beginner level of Dutch;
 - Contact: manittashs@gmail.com;
 
 --------------------------------
@@ -21,13 +21,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-original.svg" title="Jasmine" alt="jasmine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg"  title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4"  title="OutSystems" alt="Threejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"  title="Jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4"  title="OutSystems" alt="outsystems" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/43886029/158700377-62b0da69-81a2-4340-8ce6-dec718533aee.svg"  title="maven" alt="maven" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRES"  alt="POSTGRES" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
