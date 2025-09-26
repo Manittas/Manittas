@@ -4,12 +4,11 @@
 
 ### About Me:
 
-- My name is Filipe Neves, I was born in Portugal and studied in Instituto Superior Técnico;
-- I have a Bachelor's degree in Computer Science and Engineering. Currently am working as a Developer Engineer for SAP;
+- My name is Filipe Neves, I was born in Portugal;
+- I have a Bachelor's degree in Computer Science and Engineering. Currently am working as a Developer Engineer for cloud systems;
 - My main interests are Cybersecurity, Software Engineering and Artificial Intelligence;
 - My interests revolve around cars, sports, politics, gardening and games (which I won a major european tournament for a card game);
 - Fluent in Portuguese and English yet I also have intermediate level of Spanish and beginner level of Dutch;
-- Contact: manittashs@gmail.com;
 
 --------------------------------
 
